@@ -1,0 +1,94 @@
+[Setup Wizard Template]
+TemplateDate=10/08/98 00:47:43
+
+[Select Project and Options]
+txtProjFile=D:\Visual Basic\GEAL\Geal.vbp
+chkProjRebuild=1
+optBldSetup=True
+chkIncludeDEP=1
+optInternet=False
+optDEPOnly=False
+
+[Distribution Method]
+optFloppyTarg=False
+optSingleDirTarg=False
+optMultDirTarg=True
+
+[Multiple Directories]
+cboFloppyDrives=0
+cboFloppyDriveSize=2
+txtDirTarget=D:\Instalar\Geal\
+
+[Internet Package]
+optRemoteSite=True
+optLocalSite=False
+txtLocalSite=
+
+[Data Access]
+chkUseJet=1
+chkUseODBC=0
+Isam0=
+
+[ActiveX Server Components]
+File1=
+
+[Confirm Dependencies]
+File1="C:\WINDOWS\SYSTEM\COMDLG32.OCX",True,32764
+File2="C:\WINDOWS\SYSTEM\COMCTL32.OCX",True,32764
+File3="C:\WINDOWS\SYSTEM\DBGRID32.OCX",True,32764
+File4="C:\WINDOWS\SYSTEM\CRYSTL32.OCX",True,32764
+File5="C:\ARQUIVOS DE PROGRAMAS\ARQUIVOS COMUNS\MICROSOFT SHARED\DAO\dao2535.tlb",True,32763
+File6=
+
+[Shared ActiveX Application]
+optDeployApplication=True
+optDeployShared=False
+optRemoteServer1=True
+optRemoteServer0=False
+
+[File Summary]
+File1="C:\WINDOWS\SYSTEM\MSVBVM50.dll",True,"$(WinSysPathSysFile)",$(DLLSelfRegister),False
+File2="C:\Arquivos de Programas\DevStudio\VB\SETUPKIT\KITFIL32\SYS32\StdOle2.tlb",True,"$(WinSysPathSysFile)",$(TLBRegister),False
+File3="C:\Arquivos de Programas\DevStudio\VB\SETUPKIT\KITFIL32\SYS32\OleAut32.dll",True,"$(WinSysPathSysFile)",$(DLLSelfRegister),False
+File4="C:\Arquivos de Programas\DevStudio\VB\SETUPKIT\KITFIL32\SYS32\OlePro32.dll",True,"$(WinSysPathSysFile)",$(DLLSelfRegister),False
+File5="C:\Arquivos de Programas\DevStudio\VB\SETUPKIT\KITFIL32\SYS32\AsycFilt.dll",True,"$(WinSysPathSysFile)",,False
+File6="C:\Arquivos de Programas\DevStudio\VB\SETUPKIT\KITFIL32\SYS32\Ctl3d32.dll",True,"$(WinSysPathSysFile)",,False
+File7="C:\Arquivos de Programas\DevStudio\VB\SETUPKIT\KITFIL32\SYS32\ComCat.dll",True,"$(WinSysPathSysFile)",$(DLLSelfRegister),False
+File8="C:\WINDOWS\SYSTEM\COMDLG32.OCX",True,"$(WinSysPath)",$(DLLSelfRegister),True
+File9="C:\WINDOWS\SYSTEM\COMCTL32.OCX",True,"$(WinSysPath)",$(DLLSelfRegister),True
+File10="C:\WINDOWS\SYSTEM\DBGRID32.OCX",True,"$(WinSysPath)",$(DLLSelfRegister),True
+File11="C:\WINDOWS\SYSTEM\CRYSTL32.OCX",True,"$(WinSysPath)",$(DLLSelfRegister),True
+File12="C:\WINDOWS\SYSTEM\CRPE32.DLL",True,"$(WinSysPath)",,True
+File13="C:\WINDOWS\SYSTEM\IMPLODE.DLL",True,"$(WinSysPath)",,True
+File14="C:\WINDOWS\SYSTEM\PG32.DLL",True,"$(WinSysPath)",,True
+File15="C:\Arquivos de Programas\DevStudio\VB\SETUPKIT\KITFIL32\SYS32\CO2C40EN.DLL",True,"$(WinSysPath)",,True
+File16="C:\Arquivos de Programas\DevStudio\VB\SETUPKIT\KITFIL32\SYS32\MSVCRT20.DLL",True,"$(WinSysPathSysFile)",,False
+File17="C:\WINDOWS\Crystal\CRXLAT32.DLL",True,"$(WinPath)\Crystal",,True
+File18="C:\WINDOWS\SYSTEM\P2BBND.DLL",True,"$(WinSysPath)",,True
+File19="C:\WINDOWS\SYSTEM\P2BDAO.DLL",True,"$(WinSysPath)",,True
+File20="C:\WINDOWS\SYSTEM\P2CTDAO.DLL",True,"$(WinSysPath)",,True
+File21="C:\WINDOWS\SYSTEM\P2IRDAO.DLL",True,"$(WinSysPath)",,True
+File22="C:\WINDOWS\SYSTEM\P2SODBC.DLL",True,"$(WinSysPath)",,True
+File23="C:\WINDOWS\Crystal\U2DDISK.DLL",True,"$(WinPath)\Crystal",,True
+File24="C:\WINDOWS\Crystal\U2DMAPI.DLL",True,"$(WinPath)\Crystal",,True
+File25="C:\WINDOWS\Crystal\U2FCR.DLL",True,"$(WinPath)\Crystal",,True
+File26="C:\WINDOWS\Crystal\U2FDIF.DLL",True,"$(WinPath)\Crystal",,True
+File27="C:\WINDOWS\Crystal\U2FHTML.DLL",True,"$(WinPath)\Crystal",,True
+File28="C:\WINDOWS\Crystal\U2FREC.DLL",True,"$(WinPath)\Crystal",,True
+File29="C:\WINDOWS\Crystal\U2FRTF.DLL",True,"$(WinPath)\Crystal",,True
+File30="C:\WINDOWS\Crystal\U2FSEPV.DLL",True,"$(WinPath)\Crystal",,True
+File31="C:\WINDOWS\Crystal\U2FTEXT.DLL",True,"$(WinPath)\Crystal",,True
+File32="C:\WINDOWS\Crystal\U2FWKS.DLL",True,"$(WinPath)\Crystal",,True
+File33="C:\WINDOWS\Crystal\U2FWORDW.DLL",True,"$(WinPath)\Crystal",,True
+File34="C:\WINDOWS\Crystal\U2FXLS.DLL",True,"$(WinPath)\Crystal",,True
+File35="C:\ARQUIVOS DE PROGRAMAS\ARQUIVOS COMUNS\MICROSOFT SHARED\DAO\dao2535.tlb",True,"$(MSDAOPath)",$(TLBRegister),True
+File36="C:\Arquivos de Programas\Arquivos comuns\Microsoft Shared\DAO\DAO350.dll",True,"$(MSDAOPath)",$(DLLSelfRegister),True
+File37="C:\WINDOWS\SYSTEM\MSJtEr35.dll",True,"$(WinSysPathSysFile)",,False
+File38="C:\WINDOWS\SYSTEM\MSJInt35.dll",True,"$(WinSysPathSysFile)",,False
+File39="C:\Arquivos de Programas\DevStudio\VB\SETUPKIT\KITFIL32\SYS32\MSVCRT40.dll",True,"$(WinSysPathSysFile)",,False
+File40="D:\Visual Basic\GEAL\GEAL.exe",True,"$(AppPath)",,False
+File41="D:\Visual Basic\GEAL\GEAL.DEP",True,"$(AppPath)",,False
+File42="D:\Visual Basic\DBDic\Dbdic.exe",True,"$(AppPath)",,False
+File43="C:\WINDOWS\SYSTEM\TABCTL32.OCX",True,"$(WinSysPath)",$(DLLSelfRegister),True
+File44="C:\WINDOWS\SYSTEM\PICCLP32.OCX",True,"$(WinSysPath)",$(DLLSelfRegister),True
+File45="D:\Visual Basic\DBDic\Dbdic.DEP",True,"$(AppPath)",,False

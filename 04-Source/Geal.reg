@@ -1,0 +1,15 @@
+REGEDIT4
+
+[HKEY_CURRENT_USER\Software\VB and VBA Program Settings\Microsoft Visual Basic AddIns\Geal]
+
+[HKEY_CURRENT_USER\Software\VB and VBA Program Settings\Microsoft Visual Basic AddIns\Geal\Geral]
+"DllPdv"="pdvTeste.clsPDV"
+"Dicionário"="D:\\sahle_jnetto\\Desenvolvimento\\Visual Basic\\Geal\\geal.dbd"
+"Empresa"="AKita Informática"
+"Usuário"="ADMIN"
+
+[HKEY_CURRENT_USER\Software\VB and VBA Program Settings\Microsoft Visual Basic AddIns\Geal\Geal]
+
+[HKEY_CURRENT_USER\Software\VB and VBA Program Settings\Microsoft Visual Basic AddIns\Geal\Geal\Geral]
+"Usuário"="ADMIN"
+
